@@ -1,0 +1,5 @@
+baseURL = "http://arikuzha.com/"
+languageCode = "en-us"
+title = "Arikuzha"
+theme = "silhouette-hugo"
+footnoteanchorprefix = "Hello World"
